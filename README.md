@@ -97,9 +97,9 @@ outset     | 整个边框凸现
     1. <position:(static：默认值；absolute：绝对定位，同时需要使用 left，right，top，bottom等属性进行绝对定位；fixed：当页面滚动时，元素不随着滚动；relative：相对位置：对象不可叠层)>
     
     2. 元素位置: top、bottom、left、right
-           |         |
------------|---------|------------
+    
 top        | auto    | 长度值、百分比
+-----------|---------|------------
 right      | auto    | 长度值、百分比
 left       | auto    | 长度值、百分比
 bottom     | auto    | 长度值、百分比
